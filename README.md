@@ -1,27 +1,27 @@
-<!-- 🌈 Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00c6ff,0072ff&height=180&section=header&text=Gaurav%20Tiwari%20%7C%20Full%20Stack%20Web%20Developer&fontSize=35&fontColor=ffffff&animation=twinkling" />
+<!-- 🌐 Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0A74DA,00C6FF&height=180&section=header&text=Gaurav%20Tiwari%20%7C%20Full%20Stack%20Developer&fontSize=36&fontColor=ffffff&animation=fadeIn" />
 
 <!-- Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Gaurav+Tiwari!;Full+Stack+Web+Developer+💻;MERN+Stack+Enthusiast+🌐;Code+%7C+Create+%7C+Innovate+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Gaurav+Tiwari!;Full+Stack+Web+Developer+💻;MERN+Stack+Specialist+🌐;Creating+Beautiful+and+Scalable+Web+Apps+🚀" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🌟 About Me
+## 👨‍💻 About Me
 
-💼 Full Stack Web Developer passionate about crafting clean, responsive & dynamic web apps.  
-🚀 Experienced in **MERN Stack (MongoDB, Express, React, Node.js)**  
-🎨 Love creating **beautiful UI/UX** with Tailwind CSS and modern frameworks  
-☕ Code + Music + Night = Productivity 💫  
-🤝 Open to collaborations and freelance opportunities  
+💡 Passionate Full Stack Developer with experience in building dynamic, responsive & user-friendly web apps.  
+🚀 Skilled in **MERN Stack (MongoDB, Express, React, Node.js)**  
+🎯 Focused on performance, scalability & clean architecture.  
+💬 Always curious to learn new technologies & frameworks.  
+🌍 Open to collaborations & freelance projects!  
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,bootstrap,tailwind,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,bootstrap,tailwind,vscode,figma,postman" />
 </p>
 
 ---
@@ -30,28 +30,28 @@
 
 <p align="center">
   <a href="https://github.com/gauravttiwari/mern-blog-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gauravttiwari&repo=mern-blog-app&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gauravttiwari&repo=mern-blog-app&theme=react&border_color=00C6FF" />
   </a>
   <a href="https://github.com/gauravttiwari/portfolio-website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gauravttiwari&repo=portfolio-website&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gauravttiwari&repo=portfolio-website&theme=react&border_color=00C6FF" />
   </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gauravttiwari&show_icons=true&theme=react&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gauravttiwari&show_icons=true&theme=react&count_private=true&border_color=00C6FF" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravttiwari&theme=react" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravttiwari&theme=react&border=00C6FF" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravttiwari&layout=compact&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravttiwari&layout=compact&theme=react&border_color=00C6FF" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gauravttiwari&theme=algolia&no-frame=true&row=1&column=6" />
@@ -59,31 +59,32 @@
 
 ---
 
-## 🌈 What I’m Learning
+## 🌱 Currently Exploring
 
-🧠 Next.js, TypeScript & Cloud Deployment (AWS + Vercel)  
-🎨 Advanced UI animation with Framer Motion  
-⚙️ Scalable backend with Express & MongoDB Atlas  
+- ⚙️ **Next.js** for server-side rendering  
+- ☁️ **AWS / Vercel Deployment**  
+- 🧩 **TypeScript + Framer Motion** for animations  
+- 🔐 **JWT Authentication & Role-Based Access**
 
 ---
 
-## 💬 Let's Connect
+## 📫 Let's Connect
 
 <p align="center">
   <a href="mailto:gauravttiwari.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-0072ff?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/gauravttiwari"><img src="https://img.shields.io/badge/LinkedIn-00c6ff?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/gauravttiwari"><img src="https://img.shields.io/badge/LinkedIn-00C6FF?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/gauravttiwari"><img src="https://img.shields.io/badge/GitHub-1b1f23?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://instagram.com/gaurav_tiwari"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://instagram.com/gaurav_tiwari"><img src="https://img.shields.io/badge/Instagram-0A74DA?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
 
-## ✨ Quote I Love
+## 💬 Quote I Live By
 
-> "First, solve the problem. Then, write the code." — John Johnson
+> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0072ff,00c6ff&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A74DA,00C6FF&height=120&section=footer" />
 </p>
